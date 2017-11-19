@@ -1,0 +1,13 @@
+{
+    "name": "que/que",
+    "description": "que mess around",
+    "authors": [
+        {
+            "name": "Matt",
+            "email": "m.kaschula@gmail.com"
+        }
+    ],
+    "require": {
+        "react/socket": "0.3.*"
+    }
+}
